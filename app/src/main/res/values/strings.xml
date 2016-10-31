@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FileHandling</string>
+    <string name="title_activity_kita_detail_view">Kita Details</string>
+</resources>
